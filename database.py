@@ -1,6 +1,9 @@
 """
 Database module for PyPeake MUD
 Simple JSON-based player data storage
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 import json

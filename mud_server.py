@@ -2,6 +2,9 @@
 """
 PyPeake MUD Server
 A simple Python MUD with login, race, and class selection
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 import socket

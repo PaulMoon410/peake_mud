@@ -1,6 +1,9 @@
 """
 Class definitions for PyPeake MUD
 Defines available character classes and their characteristics
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 CLASSES = {

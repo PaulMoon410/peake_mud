@@ -1,6 +1,9 @@
 """
 Player class for PyPeake MUD
 Represents a player character with all their attributes and methods
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 from datetime import datetime

@@ -2,6 +2,9 @@
 """
 Game launcher and utility script for PyPeake MUD
 Provides easy commands to start server, client, or manage database
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 import sys

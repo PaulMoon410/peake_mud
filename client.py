@@ -2,6 +2,9 @@
 """
 Simple Telnet Client for PyPeake MUD
 Connect to the MUD server using telnet
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 import socket

@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 Test script for PyPeake MUD components
+
+Copyright (c) 2025 PyPeake MUD
+Licensed under the MIT License - see LICENSE file for details
 """
 
 from player import Player

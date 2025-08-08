@@ -136,4 +136,6 @@ This is a basic MUD framework that can be extended with:
 
 ## License
 
-This project is open source and available for educational and personal use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License allows for commercial use, modification, distribution, and private use. You are free to use this code for any purpose, including commercial projects.
